@@ -1,0 +1,35 @@
+[2021-10-24 19:49:17.064] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-10-24 19:49:21.967] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-10-24 19:49:41.972] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-10-24 19:49:41.973] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-10-24 19:49:51.970] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-10-24 19:52:22.381] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-10-24 19:52:27.632] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-10-24 19:52:27.632] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2021-10-24 19:52:27.635] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2021-10-24 19:52:27.636] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-10-24 19:52:31.507] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/ylizanicole/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2021-10-24 19:52:31.510] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/ylizanicole/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.3
+[2021-10-24 19:52:31.600] [sharedprocess] [info] Extracted extension to /home/ylizanicole/.vscode/extensions/.9fb837bf-8410-471f-ad95-14038477e363: ms-toolsai.jupyter-keymap
+[2021-10-24 19:52:31.631] [sharedprocess] [info] Renamed to /home/ylizanicole/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2021-10-24 19:52:31.636] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2021-10-24 19:52:32.192] [sharedprocess] [info] Extracted extension to /home/ylizanicole/.vscode/extensions/.3123daaa-4acb-4097-9308-4d80e970a2cf: ms-toolsai.jupyter-renderers
+[2021-10-24 19:52:32.221] [sharedprocess] [info] Renamed to /home/ylizanicole/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.3
+[2021-10-24 19:52:32.224] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2021-10-24 19:52:34.121] [sharedprocess] [info] Downloaded extension: ms-python.python /home/ylizanicole/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.10.1365161279
+[2021-10-24 19:52:35.180] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/ylizanicole/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.9.1101343141
+[2021-10-24 19:52:38.237] [sharedprocess] [info] Extracted extension to /home/ylizanicole/.vscode/extensions/.fba12d70-09b3-493f-be96-61a2e8effaca: ms-toolsai.jupyter
+[2021-10-24 19:52:38.322] [sharedprocess] [info] Renamed to /home/ylizanicole/.vscode/extensions/ms-toolsai.jupyter-2021.9.1101343141
+[2021-10-24 19:52:38.332] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2021-10-24 19:52:45.204] [sharedprocess] [info] Extracted extension to /home/ylizanicole/.vscode/extensions/.3dce20f6-f2c9-4186-935f-38ce69a2a905: ms-python.python
+[2021-10-24 19:52:45.279] [sharedprocess] [info] Renamed to /home/ylizanicole/.vscode/extensions/ms-python.python-2021.10.1365161279
+[2021-10-24 19:52:45.292] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-10-24 19:52:47.894] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/ylizanicole/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.10.2
+[2021-10-24 19:52:56.245] [sharedprocess] [info] Extracted extension to /home/ylizanicole/.vscode/extensions/.cb3d1bff-4928-43df-9eca-467f7cdde19d: ms-python.vscode-pylance
+[2021-10-24 19:52:56.288] [sharedprocess] [info] Renamed to /home/ylizanicole/.vscode/extensions/ms-python.vscode-pylance-2021.10.2
+[2021-10-24 19:52:56.292] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-10-24 19:52:56.307] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2021-10-24 19:52:56.307] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2021-10-24 19:52:56.308] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-10-24 19:52:56.308] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-10-24 19:52:56.309] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

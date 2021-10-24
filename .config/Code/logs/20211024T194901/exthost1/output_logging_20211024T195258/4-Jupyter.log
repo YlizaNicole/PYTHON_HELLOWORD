@@ -1,0 +1,18 @@
+Info 2021-10-24 19:52:58: Experimentation service retrieved: [object Object]
+Info 2021-10-24 19:52:59: ZMQ install verified.
+Error 2021-10-24 19:52:59: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file '/home/ylizanicole/.config/Code/User/settings.json' (Error: Unable to resolve nonexistent file '/home/ylizanicole/.config/Code/User/settings.json')
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163865)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.readFile (/home/ylizanicole/.vscode/extensions/ms-toolsai.jupyter-2021.9.1101343141/out/client/extension.js:90:363442)
+	at async g.fixSettingsFile (/home/ylizanicole/.vscode/extensions/ms-toolsai.jupyter-2021.9.1101343141/out/client/extension.js:52:320440)
+	at async Promise.all (index 0)
+	at async g.updateSettings (/home/ylizanicole/.vscode/extensions/ms-toolsai.jupyter-2021.9.1101343141/out/client/extension.js:52:322160)] {
+  code: 'FileNotFound'
+}
+Info 2021-10-24 19:55:48: Shutting down notebooks for dbff4e1b-d80c-4b7e-8429-f42f903dca81
+Info 2021-10-24 19:55:48: Disposing HostJupyterExecution 7cd830ed-7fb5-4830-b51a-2df4c2dc73c7
+Info 2021-10-24 19:55:48: Disposing super HostJupyterExecution 7cd830ed-7fb5-4830-b51a-2df4c2dc73c7
+Info 2021-10-24 19:55:48: Disposing HostJupyterExecution 7cd830ed-7fb5-4830-b51a-2df4c2dc73c7
+Info 2021-10-24 19:55:48: Finished disposing HostJupyterExecution  7cd830ed-7fb5-4830-b51a-2df4c2dc73c7
+Info 2021-10-24 19:55:48: Cleaning up server cache 7cd830ed-7fb5-4830-b51a-2df4c2dc73c7
+Info 2021-10-24 19:55:48: Finished disposing HostJupyterExecution  7cd830ed-7fb5-4830-b51a-2df4c2dc73c7
